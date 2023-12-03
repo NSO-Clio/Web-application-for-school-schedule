@@ -75,6 +75,7 @@ def adminForm():
 # Наши контакты
 
 **Андреасян Егор Андреасович**:
+-	BackEnd and FullStack Dev
 -	Почта: egorandreasyan@yandex.ru
 -	Дополнительная почта: egorandreas28@gmail.com
 -	Телегремм: https://t.me/EgorAndrik
@@ -82,6 +83,7 @@ def adminForm():
 -	Github: https://github.com/EgorAndrik 
 
 **Пясковский Александр Михайлович**:
+-	FrontEnd and FullStack Dev
 -	Почта: alexanderpyaskovsky@yandex.ru 
 -	Дополнительная почта: sashakedr@icloud.com 
 -	Телегремм: https://t.me/SAMURAI_KOVSKI
