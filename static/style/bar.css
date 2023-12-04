@@ -1,0 +1,23 @@
+.zag{
+  font-size: 70px;
+  text-align: center;
+  background-color: #3b85da;
+  color: white;
+  margin-top: 40px;
+  font-weight: 400;
+}
+
+
+.footer{
+    background-color: #3b85da;
+    height: 150px;
+    font-size: 40px;
+    text-align: center;
+    color: white;
+    text-decoration: none;
+ }
+footer a:hover{
+    background-color: white;
+	color: black;
+	transition: 0.5s;
+}

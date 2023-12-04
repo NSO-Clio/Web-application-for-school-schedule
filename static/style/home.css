@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:900i');
+
+* {
+  box-sizing: border-box;
+
+}
+body{
+    background: rgb(39, 38, 38);
+    font-family: 'Lato', sans-serif;
+}
+
+}
+header{
+    justify-content: center;
+    align-items: center;
+    align-content: center;    
+}
+
+
+p{
+  text-align: center;
+}
+
+
+
+.wrapper{
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  margin: 100px 0px;
+
+}
+
+.link_wrapper{
+  position: relative;
+}
+
+a{
+  display: block;
+  width: 350px;
+  height: 70px;
+  line-height: 50px;
+  font-weight: bold;
+  text-decoration: none;
+  background: #6da3e2;
+  text-align: center;
+  padding: 10px;
+  color: white;
+  font-size: 20px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  border: 3px solid #fff6f6;
+  transition: all .35s;
+  border-radius: 15px;
+}
+
+.icon{
+  width: 70px;
+  height: 70px;
+  border: 3px solid transparent;
+  border-radius: 15px;
+  position: absolute;
+  transform: rotate(45deg);
+  right: 0;
+  top: 0;
+  z-index: -1;
+  transition: all .35s;
+}
+
+.icon svg{
+  width: 30px;
+  position: absolute;
+  top: calc(50% - 15px);
+  left: calc(50% - 15px);
+  transform: rotate(-45deg);
+  fill: #ce4646;
+  transition: all .35s;
+}
+
+a:active{
+  width: 200px;
+  border: 3px solid #ce4646;
+  background: transparent;
+  color: #ce4646;
+}
+
+a:active + .icon{
+  border: 3px solid #ce4646;
+  right: -25%;
+}
+img{
+    width: 340px;
+    height: 240px;
+}
