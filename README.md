@@ -48,21 +48,19 @@ python api.py
 
 <img style="width: 40%; height: 40%;" src="https://github.com/NSO-OSKOM/Web-application-for-school-schedule/blob/main/forREADME/photo1701600833.jpeg">
 
-<img style="width: 40%; height: 40%;" src="https://github.com/NSO-OSKOM/Web-application-for-school-schedule/blob/main/forREADME/photo1701600820.jpeg">
+<img style="width: 40%; height: 40%;" src="https://github.com/NSO-OSKOM/Web-application-for-school-schedule/blob/main/forREADME/photo_2023-12-19_23-38-53.jpg">
 
-<img style="width: 40%; height: 40%;" src="https://github.com/NSO-OSKOM/Web-application-for-school-schedule/blob/main/forREADME/photo1701600849.jpeg">
+<img style="width: 40%; height: 40%;" src="https://github.com/NSO-OSKOM/Web-application-for-school-schedule/blob/main/forREADME/photo_2023-12-19_23-38-55.jpg">
 
-<img style="width: 40%; height: 40%;" src="https://github.com/NSO-OSKOM/Web-application-for-school-schedule/blob/main/forREADME/photo1701600862.jpeg">
+<img style="width: 40%; height: 40%;" src="https://github.com/NSO-OSKOM/Web-application-for-school-schedule/blob/main/forREADME/photo_2023-12-19_23-38-49.jpg">
 
-<img style="width: 40%; height: 40%;" src="https://github.com/NSO-OSKOM/Web-application-for-school-schedule/blob/main/forREADME/photo1701600870.jpeg">
+<img style="width: 40%; height: 40%;" src="https://github.com/NSO-OSKOM/Web-application-for-school-schedule/blob/main/forREADME/photo_2023-12-19_23-38-57.jpg">
 
-<img style="width: 40%; height: 40%;" src="https://github.com/NSO-OSKOM/Web-application-for-school-schedule/blob/main/forREADME/photo1701600888.jpeg">
+<img style="width: 40%; height: 40%;" src="https://github.com/NSO-OSKOM/Web-application-for-school-schedule/blob/main/forREADME/photo_2023-12-19_23-39-03.jpg">
 
-<img style="width: 40%; height: 40%;" src="https://github.com/NSO-OSKOM/Web-application-for-school-schedule/blob/main/forREADME/photo1701600899.jpeg">
+<img style="width: 40%; height: 40%;" src="https://github.com/NSO-OSKOM/Web-application-for-school-schedule/blob/main/forREADME/photo_2023-12-19_23-39-05.jpg">
 
-<img style="width: 40%; height: 40%;" src="https://github.com/NSO-OSKOM/Web-application-for-school-schedule/blob/main/forREADME/photo1701600909.jpeg">
-
-<img style="width: 40%; height: 40%;" src="https://github.com/NSO-OSKOM/Web-application-for-school-schedule/blob/main/forREADME/photo1701600923.jpeg">
+<img style="width: 40%; height: 40%;" src="https://github.com/NSO-OSKOM/Web-application-for-school-schedule/blob/main/forREADME/photo_2023-12-19_23-39-07.jpg">
 </div>
 
 # Дополнительные заметки по администрированию
@@ -72,15 +70,15 @@ python api.py
 
 Первая смена
 
-<img style="width: 80%; height: 80%;" src="https://github.com/NSO-OSKOM/Web-application-for-school-schedule/blob/main/forREADME/photo1701598294.jpeg">
+<img style="width: 80%; height: 80%;" src="https://github.com/NSO-OSKOM/Web-application-for-school-schedule/blob/main/forREADME/photo_2023-12-19_23-38-25.jpg">
 
 Вторая смена
 
-<img style="width: 80%; height: 80%;" src="https://github.com/NSO-OSKOM/Web-application-for-school-schedule/blob/main/forREADME/photo1701598298.jpeg">
+<img style="width: 80%; height: 80%;" src="https://github.com/NSO-OSKOM/Web-application-for-school-schedule/blob/main/forREADME/photo_2023-12-19_23-38-24.jpg">
 
 Консультации
 
-<img style="width: 80%; height: 80%;" src="https://github.com/NSO-OSKOM/Web-application-for-school-schedule/blob/main/forREADME/photo1701598292.jpeg">
+<img style="width: 80%; height: 80%;" src="https://github.com/NSO-OSKOM/Web-application-for-school-schedule/blob/main/forREADME/photo_2023-12-19_23-38-21.jpg">
 
 - Если в расписании произошло какое-либо обновление, вам нужно зайти во вкладку расписание или консультации и в самом низу подвале приложения находиться надпись. **Createb by SAMURAI_KOVSKI and EgorAndrik** Вам нужно будет на неё нажать, появиться форма для администратора где вы должны ввести пароль(если пароль не верный вас просто перенесёт на главную страницу)
 Пароль: вы должны будете указать свой в функции
