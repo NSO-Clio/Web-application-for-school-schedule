@@ -57,7 +57,7 @@ class TableWorker:
     def creatDataClasses(self):
         self.DataClasses = {str(i): [] for i in range(1, 12)}
         for elem in list(self.DataFrames['gid'].columns)[4:]:
-            chek_tmp = elem[::]
+            chek_tmp = elem[:2]
             for symd in "йцукенгшщзхъфывапролджэячсмитьбю":
                 chek_tmp = chek_tmp.replace(symd, '')
             for i in self.DataClasses:
