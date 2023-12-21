@@ -74,7 +74,7 @@ def updateTimeTable():
 @application.route('/AdminForm', methods=['POST'])
 def adminForm():
     passwordAdmin = request.form['name']
-    if passwordAdmin == 'Admin01091903Licei':
+    if passwordAdmin == 'YOUR_PASSWORD':
         return updateTimeTable()
     return homePage()
 
