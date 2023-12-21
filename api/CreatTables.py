@@ -85,16 +85,3 @@ class TableWorker:
             'DataFrame': [self.DataFrames[i].values.tolist() for i in self.DataFrames],
             'DataClasses': self.DataClasses
         }
-
-
-# tw = TableWorker(
-#     url='https://docs.google.com/spreadsheets/d/1BCVo9l3744Br5jMmqCEgCryUiCoqOt4H2XiR9ojEYhY/edit#gid=0',
-#     id_gid=[0, 1204865440, 1647332919],
-#     id_gid_consult=[235248533, 2109548677],
-#     path_service_account='TimeTable_serviceAcc.json'
-# )
-# tw.creatData()
-# print(tw.get_Data(gid=True).columns)
-# print(tw.get_Data(gid_consult=True).iloc[:18, :3])
-# tw.creatData()
-# print(tw.get_Data(gid_consult=True).iloc[:18, :3])
