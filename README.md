@@ -63,6 +63,10 @@ python api.py
 <img style="width: 40%; height: 40%;" src="https://github.com/NSO-OSKOM/Web-application-for-school-schedule/blob/main/forREADME/photo_2023-12-19_23-39-07.jpg">
 </div>
 
+
+[!video](https://github.com/NSO-OSKOM/Web-application-for-school-schedule/assets/124351915/9652cb85-6f16-4de6-abb8-455c656fe08d)
+
+
 # Дополнительные заметки по администрированию
 
 - Расписание для классов должно быть одного стиля для первой, второй смены и расписания консультаций
