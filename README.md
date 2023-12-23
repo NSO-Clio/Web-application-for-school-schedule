@@ -12,11 +12,11 @@
 
 - Вам понадобиться ключ разработчика google для вашей таблици с расписанием
 
--	Ключ разработчика(json файл), который вы сохраните нужно переименовать как «TimeTable_serviceAcc»
+- Ключ разработчика(json файл), который вы сохраните нужно переименовать как «TimeTable_serviceAcc»
 
--	После чего в коде файла api.py где указан url в кавычки вставить свой, а именно ссылка на вашу таблицу
+- После чего в коде файла api.py где указан url в кавычки вставить свой, а именно ссылка на вашу таблицу
 
--	После чего в переменных id_gid укать id таблиц, которые сделаны для расписания классов. Id страници указан в ссылке после слова «gid» в данном примере id 0
+- После чего в переменных id_gid укать id таблиц, которые сделаны для расписания классов. Id страници указан в ссылке после слова «gid» в данном примере id 0
 <img style="width: 80%; height: 80%;" src="https://github.com/NSO-OSKOM/Web-application-for-school-schedule/blob/main/forREADME/photo1701598302.jpeg">
 
 - В переменной id_gid_consult указать тоже id, но уже не на расписание классов, а на расписание консультаций
@@ -103,18 +103,18 @@ def adminForm():
 
 > **BackEnd and FullStack Dev**
 
--	Почта: egorandreasyan@yandex.ru
--	Дополнительная почта: egorandreas28@gmail.com
--	Телегремм: https://t.me/EgorAndrik
--	Vk: https://vk.com/egor_andrik
--	Github: https://github.com/EgorAndrik 
+- Почта: egorandreasyan@yandex.ru
+- Дополнительная почта: egorandreas28@gmail.com
+- Телегремм: https://t.me/EgorAndrik
+- Vk: https://vk.com/egor_andrik
+- Github: https://github.com/EgorAndrik 
 
 **Пясковский Александр Михайлович**:
 
 > **FrontEnd and FullStack Dev**
 
--	Почта: alexanderpyaskovsky@yandex.ru 
--	Дополнительная почта: sashakedr@icloud.com 
--	Телегремм: https://t.me/SAMURAI_KOVSKI
--	Vk: https://vk.com/id457951126 
--	Github: https://github.com/SAMURAI2035 
+- Почта: alexanderpyaskovsky@yandex.ru 
+- Дополнительная почта: sashakedr@icloud.com 
+- Телегремм: https://t.me/SAMURAI_KOVSKI
+- Vk: https://vk.com/id457951126 
+- Github: https://github.com/SAMURAI2035 
