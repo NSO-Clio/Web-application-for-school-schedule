@@ -1,5 +1,8 @@
 # Web-application-for-school-schedule
 
+[![Code Size](https://img.shields.io/github/languages/code-size/NSO-OSKOM/Web-application-for-school-schedule)](https://github.com/NSO-OSKOM/Web-application-for-school-schedule)
+<img alt="python" src="https://img.shields.io/badge/python-3.10.11-yellow.svg"/>
+
 Веб приложение по расписанию для сенсорной электронной доски
 
 # Заказчик
