@@ -5,7 +5,8 @@ from CreatTables import TableWorker
 application = Flask(__name__, template_folder='templates')
 tw = TableWorker(
     url='YOUR_URL',
-    id_gid=[YOUR_ID],
+    id_gid_one_sm=[YOUR_ID],
+    id_gid_two_sm=[YOUR_ID],
     id_gid_consult=[YOUR_ID],
     path_service_account='TimeTable_serviceAcc.json'
 )
