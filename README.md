@@ -23,6 +23,7 @@
 <img style="width: 80%; height: 80%;" src="https://github.com/NSO-OSKOM/Web-application-for-school-schedule/blob/main/forREADME/photo1701598302.jpeg">
 
 - В переменной id_gid_consult указать тоже id, но уже не на расписание классов, а на расписание консультаций
+- Переменная id_gid_sub_lesson отвечает за расписание внеурочной деятельности
 
 ```python
 tw = TableWorker(
@@ -30,6 +31,7 @@ tw = TableWorker(
     id_gid_one_sm=[YOUR_ID],
     id_gid_two_sm=[YOUR_ID],
     id_gid_consult=[YOUR_ID],
+    id_gid_sub_lesson=[YOUR_ID],
     path_service_account='TimeTable_serviceAcc.json'
 )
 ```
@@ -81,19 +83,22 @@ python api.py
 # Дополнительные заметки по администрированию
 
 - Расписание для классов должно быть одного стиля для первой, второй смены и расписания консультаций
+
 Пример:
 
-Первая смена
+- Первая смена
 
 <img style="width: 80%; height: 80%;" src="https://github.com/NSO-OSKOM/Web-application-for-school-schedule/blob/main/forREADME/photo_2023-12-19_23-38-25.jpg">
 
-Вторая смена
+- Вторая смена
 
 <img style="width: 80%; height: 80%;" src="https://github.com/NSO-OSKOM/Web-application-for-school-schedule/blob/main/forREADME/photo_2023-12-19_23-38-24.jpg">
 
-Консультации
+- Консультации
 
 <img style="width: 80%; height: 80%;" src="https://github.com/NSO-OSKOM/Web-application-for-school-schedule/blob/main/forREADME/photo_2023-12-19_23-38-21.jpg">
+
+- Внеурочная деятельность схожа с распианием классов
 
 Пример google таблици можно посмотреть по ссылке https://docs.google.com/spreadsheets/d/1ef__SA0CMETxDydDADxHaUU10-NLQmL6T16MOYVUznI/edit#gid=0 
 
