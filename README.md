@@ -19,7 +19,7 @@
 
 - После чего в коде файла api.py где указан url в кавычки вставить свой, а именно ссылка на вашу таблицу
 
-- После чего в переменных id_gid укать id таблиц, которые сделаны для расписания классов. Id страници указан в ссылке после слова «gid» в данном примере id 0
+- После чего в переменных id_gid_one_sm и id_gid_two_sm укать id таблиц, которые сделаны для расписания классов. Id страници указан в ссылке после слова «gid» в данном примере id 0
 <img style="width: 80%; height: 80%;" src="https://github.com/NSO-OSKOM/Web-application-for-school-schedule/blob/main/forREADME/photo1701598302.jpeg">
 
 - В переменной id_gid_consult указать тоже id, но уже не на расписание классов, а на расписание консультаций
@@ -27,7 +27,8 @@
 ```python
 tw = TableWorker(
     url='YOUR_URL',
-    id_gid=[YOUR_ID],
+    id_gid_one_sm=[YOUR_ID],
+    id_gid_two_sm=[YOUR_ID],
     id_gid_consult=[YOUR_ID],
     path_service_account='TimeTable_serviceAcc.json'
 )
@@ -86,6 +87,8 @@ python api.py
 Консультации
 
 <img style="width: 80%; height: 80%;" src="https://github.com/NSO-OSKOM/Web-application-for-school-schedule/blob/main/forREADME/photo_2023-12-19_23-38-21.jpg">
+
+Пример google таблици можно посмотреть по ссылке https://docs.google.com/spreadsheets/d/1ef__SA0CMETxDydDADxHaUU10-NLQmL6T16MOYVUznI/edit#gid=0 
 
 - Если в расписании произошло какое-либо обновление, вам нужно зайти во вкладку расписание или консультации и в самом низу подвале приложения находиться надпись. **Createb by SAMURAI_KOVSKI and EgorAndrik** Вам нужно будет на неё нажать, появиться форма для администратора где вы должны ввести пароль(если пароль не верный вас просто перенесёт на главную страницу)
 Пароль: вы должны будете указать свой в функции
