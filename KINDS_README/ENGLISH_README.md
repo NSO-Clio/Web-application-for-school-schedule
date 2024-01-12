@@ -7,7 +7,7 @@ Scheduled web application for touchscreen electronic board.
 
 # Customer
 
-This application was developed by order of the MAOU Lyceum No. 22 "Nadezhda Siberia" in the Novosibirsk region, Novosibirsk 2023.
+This application was developed by order of the MAEI(Municipal Autonomous Educational Institution) Lyceum  №22 "Hope of Siberia" in the Novosibirsk region, Novosibirsk 2023.
 
 <img style="width: 70%; height: 70%;" src="https://github.com/NSO-OSKOM/Web-application-for-school-schedule/blob/main/forREADME/logo22.jpg">
 
