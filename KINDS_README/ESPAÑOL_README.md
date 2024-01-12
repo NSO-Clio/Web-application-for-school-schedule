@@ -5,6 +5,13 @@
 
 Aplicación web programada para placa electrónica táctil
 
+# Other languages
+
+- [English](../KINDS_README/ENGLISH_README.md)
+- [Español](../KINDS_README/ESPAÑOL_README.md)
+- [Русский](../README.md)
+
+
 # Cliente
 
 Esta aplicación fue desarrollada por orden de la IEAM(Institución Educativa Autónoma Municipal) Lyceum №22 "Esperanza de Siberia" en la región de Novosibirsk, la ciudad de Novosibirsk 2023.
