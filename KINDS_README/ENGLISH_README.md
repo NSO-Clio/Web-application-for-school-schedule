@@ -5,6 +5,13 @@
 
 Scheduled web application for touchscreen electronic board.
 
+# Other languages
+
+- [English](../KINDS_README/ENGLISH_README.md)
+- [Español](../KINDS_README/ESPAÑOL_README.md)
+- [Русский](../README.md)
+
+
 # Customer
 
 This application was developed by order of the MAEI(Municipal Autonomous Educational Institution) Lyceum  №22 "Hope of Siberia" in the Novosibirsk region, Novosibirsk 2023.
