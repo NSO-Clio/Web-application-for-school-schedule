@@ -5,7 +5,7 @@ body{
 
 nav .a{
 	color: white;
-	font-size: 70px;
+	font-size: 60px;
 	font-weight: 500;
 	display: block;
 	text-decoration: none;
@@ -58,10 +58,10 @@ h1{
     margin: 200px -10;
 }
 .k6{
-    margin: -170px 310px;
+    margin: 50px 640px;
 }
 .k5{
-    margin: 50px 640px;
+    margin: -170px 310px;
 }
 .k4{
     margin: -170px -10;

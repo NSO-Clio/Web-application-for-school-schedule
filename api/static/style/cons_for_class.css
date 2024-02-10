@@ -1,6 +1,5 @@
-
 body{
-  font-family: 'Lato', sans-serif;
+    font-family: 'Lato', sans-serif;
 }
 
 table {
@@ -53,12 +52,12 @@ footer{
     margin-top: 690px;
 }
 .a_foot{
-	color: white;
-	font-size: 50px;
-	text-decoration: none;
+    color: white;
+    font-size: 50px;
+    text-decoration: none;
 }
 .a_foot:hover{
-	background-color: white;
-	color: #000;
-	transition: 0.5s;
+    background-color: white;
+    color: #000;
+    transition: 0.5s;
 }
