@@ -10,7 +10,7 @@ body{
 }
 nav .a{
     color: white;
-    font-size: 60px;
+    font-size: 70px;
     font-weight: 500;
     display: block;
     text-decoration: none;
@@ -120,17 +120,9 @@ h1{
 }
 .footer{
     background-color: #ce4646;
-    height: 25%;
+    height: 150px;
     font-size: 40px;
     text-align: center;
-}
-
-footer .a-footer{
-    color: white;
-    font-size: 70px;
-    font-weight: 500;
-    display: block;
-    text-decoration: none;
 }
 
 /*стили кнопки обновления*/
