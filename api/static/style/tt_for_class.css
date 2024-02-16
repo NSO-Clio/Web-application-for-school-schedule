@@ -1,17 +1,17 @@
 body{
-  font-family: 'Lato', sans-serif;
+    font-family: 'Lato', sans-serif;
 }
 nav .a{
-	color: white;
-	font-size: 70px;
-	font-weight: 500;
-	display: block;
-	text-decoration: none;
-	margin: 60px;
+    color: white;
+    font-size: 60px;
+    font-weight: 500;
+    display: block;
+    text-decoration: none;
+    margin: 60px;
 }
 nav .a:hover{
-	color: #000;
-	transition: 0.5s;
+    color: #000;
+    transition: 0.5s;
 }
 header{
     background-color: #6a24c5;
@@ -33,8 +33,8 @@ img{
     height: 400px;
 }
 h1{
-  font-size: 80px;
-  text-align: center;
+    font-size: 80px;
+    text-align: center;
 }
 
 table {
@@ -87,82 +87,82 @@ tr td:last-child {
 /*стили кнопки обновления*/
 
 .open-button {
-  background-color: #3b85da;
-  color: white;
-  font-size: 15px;
-  font-weight: bold;
-  padding: 16px 20px;
-  border: none;
-  bottom: 23px;
-  right: 28px;
-  width: 100%;
+    background-color: #3b85da;
+    color: white;
+    font-size: 15px;
+    font-weight: bold;
+    padding: 16px 20px;
+    border: none;
+    bottom: 23px;
+    right: 28px;
+    width: 100%;
 }
 .open-button:hover{
-  background: white;
-  color: black;
+    background: white;
+    color: black;
 }
 
 .form-popup {
-  font-family: 'Lato', sans-serif;
-  font-weight: bold;
-  display: none;
-  position: fixed;
-  bottom: 0;
-  right: 15px;
-  z-index: 9;
+    font-family: 'Lato', sans-serif;
+    font-weight: bold;
+    display: none;
+    position: fixed;
+    bottom: 0;
+    right: 15px;
+    z-index: 9;
 
 }
 
 .form-container {
-  font-family: 'Lato', sans-serif;
-  font-weight: bold;
-  width: 700px;
-  height: auto;
-  padding: 10px;
-  border: none;
-  background: rgb(39, 38, 38);
+    font-family: 'Lato', sans-serif;
+    font-weight: bold;
+    width: 700px;
+    height: auto;
+    padding: 10px;
+    border: none;
+    background: rgb(39, 38, 38);
 }
 
 .form-container input[type=number], .form-container input[type=password] {
-  font-family: 'Lato', sans-serif;
-  font-weight: bold;
-  width: 100%;
-  padding: 15px;
-  margin: 5px 0 22px 0;
-  border: none;
+    font-family: 'Lato', sans-serif;
+    font-weight: bold;
+    width: 100%;
+    padding: 15px;
+    margin: 5px 0 22px 0;
+    border: none;
 
 }
 
 .form-container input[type=number]:focus, .form-container input[type=password]:focus {
-  font-family: 'Lato', sans-serif;
-  font-weight: bold;
-  outline: none;
+    font-family: 'Lato', sans-serif;
+    font-weight: bold;
+    outline: none;
 }
 
 .form-container .btn {
-  font-family: 'Lato', sans-serif;
-  font-weight: bold;
-  background-color: #3b85da;
-  color: white;
-  padding: 16px 20px;
-  border: none;
-  cursor: pointer;
-  width: 100%;
-  margin-bottom:10px;
-  opacity: 0.8;
-  font-size: 35px;
-  font-weight: bold;
+    font-family: 'Lato', sans-serif;
+    font-weight: bold;
+    background-color: #3b85da;
+    color: white;
+    padding: 16px 20px;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    margin-bottom:10px;
+    opacity: 0.8;
+    font-size: 35px;
+    font-weight: bold;
 
 }
 
 .form-container .cancel {
-  font-family: 'Lato', sans-serif;
-  font-weight: bold;
-  background-color:   #ce4646;
-  color: white;
+    font-family: 'Lato', sans-serif;
+    font-weight: bold;
+    background-color:   #ce4646;
+    color: white;
 }
 
 .form-container .btn:hover, .open-button:hover {
-  opacity: 1;
+    opacity: 1;
 
 }
