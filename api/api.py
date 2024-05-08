@@ -33,7 +33,12 @@ def time_table_choose_class() -> str:
 
 @application.route('/consalt_choose_teacher')
 def consalt_choose_teacher() -> str:
-    return render_template('consalt.html')
+    data = tw.get_Data(gid_consult=True)
+    dataTeacher = [i for i in zip(['/getTimeTableConsult/' + j for j in data['Учителя']], data['Учителя'])]
+    return render_template(
+        'consalt.html',
+        dataTeacher=dataTeacher
+    )
 
 
 @application.route('/vne_urok')
@@ -43,8 +48,6 @@ def vne_urok() -> str:
 
 @application.route('/getTimeTable/<class_>/<gid_type>')
 def getTimeTableClass(class_: str, gid_type: str) -> str:
-    # now = datetime.now()
-    # day = datetime.isoweekday(now)
     class_ = class_.lower().replace(' ', '')
     data = tw.get_Data(gid=True)[gid_type][['Дни', 'Уроки', 'Время', class_]]
     data = [i for i in
@@ -64,8 +67,6 @@ def getTimeTableClass(class_: str, gid_type: str) -> str:
 
 @application.route('/getTimeTable_subLesson/<class_>')
 def getTimeTableClass_subLesson(class_: str) -> str:
-    # now = datetime.now()
-    # day = datetime.isoweekday(now)
     class_ = class_.lower().replace(' ', '')
     data = tw.get_Data(gid_sub_lesson=True)[['Дни', 'Уроки', 'Время', class_]]
     data = [i for i in
@@ -107,7 +108,7 @@ def updateTimeTable():
 @application.route('/AdminForm', methods=['POST'])
 def adminForm():
     passwordAdmin = request.form['name']
-    if passwordAdmin == 'YOUR_PASSWORD':
+    if passwordAdmin == 'l22pass':
         return updateTimeTable()
     return homePage()
 
