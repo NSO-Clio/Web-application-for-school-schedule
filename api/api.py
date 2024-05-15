@@ -37,7 +37,8 @@ def consalt_choose_teacher() -> str:
     dataTeacher = [i for i in zip(['/getTimeTableConsult/' + j for j in data['Учителя']], data['Учителя'])]
     return render_template(
         'consalt.html',
-        dataTeacher=dataTeacher
+        dataTeacher=dataTeacher,
+        len_f=len
     )
 
 
